@@ -1,2 +1,5 @@
 This is life-story tow this second line
  this chage in feture 2 ....
+ 
+ 
+ logo alinement-center....done
